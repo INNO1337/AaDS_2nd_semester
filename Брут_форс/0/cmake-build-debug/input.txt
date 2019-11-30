@@ -1,0 +1,2 @@
+4
+//            swap(num[i], num[pos]);

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/inno/Рабочий стол/Комиссия/Сортировки/k-aя порядковая/main.cpp
+stdio.h
+-
+fstream
+-
+iostream
+-
+vector
+-
+ctime
+-
+

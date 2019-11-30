@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/inno/Рабочий стол/Комиссия/Жадность+амартизационный_анализ/D(process)/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+set
+-
+
